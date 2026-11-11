@@ -1,0 +1,11 @@
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+
+# 忽略本机数据
+reminders.json
+
+# 忽略所有 .log 文件
+*.log
+
+data/
